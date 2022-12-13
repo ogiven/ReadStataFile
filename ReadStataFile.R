@@ -2,7 +2,7 @@
 # R script to read a Stata .dta file
 # Olivia Given Castello, 2021
 # Based on instructions here: https://www.marsja.se/how-to-read-and-write-stata-dta-files-in-r-with-haven/
-# Test update for GitHub Desktop 2022
+# 
 
 # Uncomment if this package still needs to be installed
 # install.packages("haven")
